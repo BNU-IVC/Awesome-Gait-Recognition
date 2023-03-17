@@ -294,6 +294,13 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition](https://ieeexplore.ieee.org/abstract/document/1699873/) -  S. Yu et.al., ICPR2006 (⚡***CASIA-B*** [[download]](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp))
 
 
+## Tutorial
+* Soft Biometrics and Gait - M. Nixon, The IAPR/IEEE Winter School on Biometrics **2022** [[pdf]](https://www.comp.hkbu.edu.hk/wsb2022/slides/Mark_Nixon.pdf)
+* Gait Recognition - Y. Yagi, The IAPR/IEEE Winter School on Biometrics **2021** [[pdf]](https://hugefiles.comp.hkbu.edu.hk/album/web/other/wsb2021/slides/Yasushi_Yagi.pdf)
+* Human Gait Analysis - Y. Yagi, The IAPR/IEEE Winter School on Biometrics **2020** [[pdf]](https://hugefiles.comp.hkbu.edu.hk/album/web/other/wsb2020/slides/Yasushi_Yagi.pdf)
+* Human Gait Analysis - Y. Yagi, The IAPR/IEEE Winter School on Biometrics **2019** [[pdf]](https://hugefiles.comp.hkbu.edu.hk/album/web/other/wsb19/slides/Yasushi_Yagi.pdf)
+* Gait and Soft Biometrics - M. Nixon, The IAPR/IEEE Winter School on Biometrics **2018** [[pdf]](https://hugefiles.comp.hkbu.edu.hk/album/web/other/wsb18/slides/Mark_Nixon.pdf)
+* Human Identification via Gait Recognition - L. Wang, The IAPR/IEEE Winter School on Biometrics **2017** [[pdf]](https://www.comp.hkbu.edu.hk/wsb17/slides/Liang_Wang.pdf)[[video]](http://hkbutube.lib.hkbu.edu.hk/st/display.php?bibno=b3976435)
 
 ## Competition
 
