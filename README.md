@@ -16,8 +16,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 - [Model based Gait Recognition](#model-based-gait-recognition)
 - [Gait Survey](#gait-survey)
 - [Gait Recognition Dataset ](#gait-recognition-dataset)
+- [Tutorial](#tutorial)
 - [Competition](#competition)
 - [Framework](#framework)
+
 
 
 
