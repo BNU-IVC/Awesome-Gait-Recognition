@@ -8,7 +8,7 @@
 
 *The repository is built and maintained by [Yang Fu](https://github.com/aleeyang).*
 
-Please feel free to send me [pull requests](https://github.com/aleeyang/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
+Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
 
 ## Contents
 
