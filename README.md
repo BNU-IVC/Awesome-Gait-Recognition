@@ -36,9 +36,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2022
 
-* [Metagait: Learning to learn an omni sample adaptive representation for gait recognition](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_21) - H. Dou et al., ECCV 2022 (⚡**MetaGait** [[Offical Code]](https://github.com/WhiteDOU/MetaGait))
-* [Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.html) - T. Chai et al., CVPR2022 (⚡***LagrangeGait*** [[Offical Code]](https://github.com/ctrasd/LagrangeGait))
-* [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[code]](https://github.com/Gait3D/Gait3D-Benchmark))
+* [Metagait: Learning to learn an omni sample adaptive representation for gait recognition](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_21) - H. Dou et al., ECCV 2022 (⚡**MetaGait** [[Official  Code]](https://github.com/WhiteDOU/MetaGait))
+* [Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.html) - T. Chai et al., CVPR2022 (⚡***LagrangeGait*** [[Official  Code]](https://github.com/ctrasd/LagrangeGait))
+* [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[Official  Code]](https://github.com/Gait3D/Gait3D-Benchmark))
 * [GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality](https://arxiv.org/abs/2203.03972) - J. Liang et al., ECCV2022 (⚡***GaitEdge*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022 (LiCamGait)
 * [Generalized inter-class loss for gait recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548311) - W. Yu et al., MM'22
@@ -62,8 +62,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2021
 
-* [3d local convolutional neural networks for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.html) - Z. Huang et al., ICCV2021 (⚡***3DLocal*** [[Offical Code]](https://github.com/aliyun/3D-Local-CNN-for-Gait-Recognition))
-* [Context-sensitive temporal feature learning for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.html) - X. Huang et al., ICCV2021(⚡***CSTL***[[Offical Code]](https://github.com/OliverHxh/CSTL))
+* [3d local convolutional neural networks for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.html) - Z. Huang et al., ICCV2021 (⚡***3DLocal*** [[Official  Code]](https://github.com/aliyun/3D-Local-CNN-for-Gait-Recognition))
+* [Context-sensitive temporal feature learning for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.html) - X. Huang et al., ICCV2021(⚡***CSTL***[[Official  Code]](https://github.com/OliverHxh/CSTL))
 * [Cross-view gait recognition with deep universal linear embeddings](http://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Cross-View_Gait_Recognition_With_Deep_Universal_Linear_Embeddings_CVPR_2021_paper.html) - S. Zhang et al., ICCV2021
 * [Gait recognition via effective global-local feature representation and local temporal aggregation](http://openaccess.thecvf.com/content/ICCV2021/html/Lin_Gait_Recognition_via_Effective_Global-Local_Feature_Representation_and_Local_Temporal_ICCV_2021_paper.html) -  B. Lin et al., ICCV2021 (⚡***GaitGL*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
 * [Gait recognition in the wild: A benchmark](http://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.html) - Z. Zhu et al., ICCV2021 (⚡***GREW*** [[code]](https://github.com/GREW-Benchmark/GREW-Benchmark))
@@ -96,7 +96,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2019
 
-* [Gaitset: Regarding gait as a set for cross-view gait recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4821) - H. Chao et al., AAAI2019 (⚡ ***GaitSet*** [[Offical Code](https://github.com/AbnerHqC/GaitSet), [OpenGait](https://github.com/ShiqiYu/OpenGait/)] )
+* [Gaitset: Regarding gait as a set for cross-view gait recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4821) - H. Chao et al., AAAI2019 (⚡ ***GaitSet*** [[Official  Code](https://github.com/AbnerHqC/GaitSet), [OpenGait](https://github.com/ShiqiYu/OpenGait/)] )
 * [Gait recognition via disentangled representation learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Gait_Recognition_via_Disentangled_Representation_Learning_CVPR_2019_paper.html) - Z. Zhang et al., CVPR2019
 * [EV-gait: Event-based robust gait recognition using dynamic vision sensors](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.html) - Y. Wang et al., CVPR2019
 * [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096/) - Y. Zhang et al.,TIP2019
