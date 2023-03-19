@@ -273,7 +273,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022
 * [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022
 * [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., Arxiv 2022 (MVPNet)
-* [A Dataset and Method for Gait Recognition with Unmanned Aerial Vehicless](https://ieeexplore.ieee.org/abstract/document/9859840/) - T. Ding et al., ICME2022
+
 
 #### 2021
 
