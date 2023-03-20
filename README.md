@@ -13,6 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Contents
 
 - [Appearance based Gait Recognition](#appearance-based-gait-recognition)
+
 - [Model based Gait Recognition](#model-based-gait-recognition)
 - [Gait Survey](#gait-survey)
 - [Gait Recognition Dataset ](#gait-recognition-dataset)
@@ -41,7 +42,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.html) - T. Chai et al., CVPR2022 (⚡***LagrangeGait*** [[Official  Code]](https://github.com/ctrasd/LagrangeGait))
 * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[Official  Code]](https://github.com/Gait3D/Gait3D-Benchmark))
 * [GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality](https://arxiv.org/abs/2203.03972) - J. Liang et al., ECCV2022 (⚡***GaitEdge*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
-* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022 (LiCamGait)
+* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022 (LiCamGait)
 * [Generalized inter-class loss for gait recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548311) - W. Yu et al., MM'22
 * [Gait recognition in the wild with multi-hop temporal switch](https://dl.acm.org/doi/abs/10.1145/3503161.3547897) - J. Zheng et al., MM'22 (MTSGait)
 * [GAITTAKE: Gait recognition by temporal attention and keypoint-guided embedding](https://ieeexplore.ieee.org/abstract/document/9897409/) - HM. Hsu et al., ICIP2022 (GaitTake)
@@ -239,8 +240,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2020
 
 * [A model-based gait recognition method with body pose and human prior knowledge](https://www.sciencedirect.com/science/article/pii/S003132031930370X) - R. Liao et al., PR2020 (⚡***PoseGait*** [[code]](https://github.com/RijunLiao/PoseGait))
+
 * [A geometric convnet on 3d shape manifold for gait recognition](http://openaccess.thecvf.com/content_CVPRW_2020/html/w50/Hosni_A_Geometric_ConvNet_on_3D_Shape_Manifold_for_Gait_Recognition_CVPRW_2020_paper.html) - N. Hosni et al., CVPRW2020
-* [Skeleton-based gait recognition via robust frame-level matching](https://ieeexplore.ieee.org/abstract/document/8653351/) -S. Choi et al., TMM2020
+* [Skeleton-based gait recognition via robust frame-level matching](https://ieeexplore.ieee.org/abstract/document/8653351/) -S. Choi et al., TIFS2020
 * [Gait recognition based on 3d skeleton data and graph convolutional network](https://ieeexplore.ieee.org/abstract/document/9304916/) - M. Mao et al., IJCB2020
 
 #### 2019
@@ -261,8 +263,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2022
 
-* [A Comprehensive Study on the Evaluation of Silhouette-based Gait Recognition](https://ieeexplore.ieee.org/iel7/8423754/8599058/09928336.pdf) - S. Hou et al., TBIOM 2022
+
+
 * [A comprehensive survey on deep gait recognition: algorithms, datasets and challenges](https://arxiv.org/abs/2206.13732) - C. Shen et al., Arxiv 2022
+
 * [Deep gait recognition: A survey](https://ieeexplore.ieee.org/abstract/document/9714177/) - A. Sepas-Moghaddam et al., TPAMI2022
 
 #### 2019
@@ -272,22 +276,25 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2018
 
 * [A survey on gait recognition](https://dl.acm.org/doi/abs/10.1145/3230633) - C. Wan et al., CSUR2018
+
 * [Biometric recognition by gait: A survey of modalities and features](https://www.sciencedirect.com/science/article/pii/S1077314218300079) - P. Connor et al., CVIU2018
 
 
 
-## Gait Recognition Dataset
+## Gait Recognition Dataset and Evaluation
 
 #### 2022
 
 * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[download]](https://gait3d.github.io/))
+
 * [Multi-view large population gait database with human meshes and its performance evaluation](https://ieeexplore.ieee.org/abstract/document/9773349/) -  X. Li et al., TBIOM 2022 （⚡***OUMVLP-Mesh*** [[download]](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitLPMesh.html)）
 * [CASIA-E: A Large Comprehensive Dataset for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9796582/) - C. Song et al., TPAMI2022 (⚡***CASIA-E*** [[download]](https://www.scidb.cn/detail?dataSetId=57be0e918db743279baf44a38d013a06))
+* [A Comprehensive Study on the Evaluation of Silhouette-based Gait Recognition](https://ieeexplore.ieee.org/iel7/8423754/8599058/09928336.pdf) - S. Hou et al., TBIOM 2022
 * [Front View Gait (FVG-B) Database](http://cvlab.cse.msu.edu/pdfs/FVG_B_Report.pdf) - Y. Su et al., Univer Web (⚡***FVG-B*** [[download]](http://cvlab.cse.msu.edu/frontal-view-gaitfvg-database.html))
-* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022
-* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022
+* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022
+* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022 (GaitSSB)
 * [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., Arxiv 2022 (MVPNet)
-* [A Dataset and Method for Gait Recognition with Unmanned Aerial Vehicless](https://ieeexplore.ieee.org/abstract/document/9859840/) - T. Ding et al., ICME2022
+
 
 #### 2021
 
