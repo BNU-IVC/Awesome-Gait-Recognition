@@ -40,7 +40,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.html) - T. Chai et al., CVPR2022 (⚡***LagrangeGait*** [[Official  Code]](https://github.com/ctrasd/LagrangeGait))
 * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[Official  Code]](https://github.com/Gait3D/Gait3D-Benchmark))
 * [GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality](https://arxiv.org/abs/2203.03972) - J. Liang et al., ECCV2022 (⚡***GaitEdge*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
-* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022 (LiCamGait)
+* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022 (LiCamGait)
 * [Generalized inter-class loss for gait recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548311) - W. Yu et al., MM'22
 * [Gait recognition in the wild with multi-hop temporal switch](https://dl.acm.org/doi/abs/10.1145/3503161.3547897) - J. Zheng et al., MM'22 (MTSGait)
 * [GAITTAKE: Gait recognition by temporal attention and keypoint-guided embedding](https://ieeexplore.ieee.org/abstract/document/9897409/) - HM. Hsu et al., ICIP2022 (GaitTake)
@@ -64,9 +64,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 * [3d local convolutional neural networks for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_3D_Local_Convolutional_Neural_Networks_for_Gait_Recognition_ICCV_2021_paper.html) - Z. Huang et al., ICCV2021 (⚡***3DLocal*** [[Official  Code]](https://github.com/aliyun/3D-Local-CNN-for-Gait-Recognition))
 * [Context-sensitive temporal feature learning for gait recognition](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.html) - X. Huang et al., ICCV2021(⚡***CSTL***[[Official  Code]](https://github.com/OliverHxh/CSTL))
-* [Cross-view gait recognition with deep universal linear embeddings](http://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Cross-View_Gait_Recognition_With_Deep_Universal_Linear_Embeddings_CVPR_2021_paper.html) - S. Zhang et al., ICCV2021
+
 * [Gait recognition via effective global-local feature representation and local temporal aggregation](http://openaccess.thecvf.com/content/ICCV2021/html/Lin_Gait_Recognition_via_Effective_Global-Local_Feature_Representation_and_Local_Temporal_ICCV_2021_paper.html) -  B. Lin et al., ICCV2021 (⚡***GaitGL*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
 * [Gait recognition in the wild: A benchmark](http://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.html) - Z. Zhu et al., ICCV2021 (⚡***GREW*** [[code]](https://github.com/GREW-Benchmark/GREW-Benchmark))
+* [Cross-view gait recognition with deep universal linear embeddings](http://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Cross-View_Gait_Recognition_With_Deep_Universal_Linear_Embeddings_CVPR_2021_paper.html) - S. Zhang et al., CVPR2021
 * [Silhouette-based view-embeddings for gait recognition under multiple views](https://ieeexplore.ieee.org/abstract/document/9506238/) - T. Chai et al., ICIP2021(⚡***Vi-GaitGL*** [[code]](https://github.com/ctrasd/gait-view))
 * [Gaitmask: Mask-based model for gait recognition](https://www.bmvc2021-virtualconference.com/assets/papers/0471.pdf) - B. Lin et al., BMVC2021
 * [Part-based collaborative spatio-temporal feature learning for cloth-changing gait recognition](https://ieeexplore.ieee.org/abstract/document/9412714/) - L. Yao et al., ICPR 2021
@@ -99,17 +100,19 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Gaitset: Regarding gait as a set for cross-view gait recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4821) - H. Chao et al., AAAI2019 (⚡ ***GaitSet*** [[Official  Code](https://github.com/AbnerHqC/GaitSet), [OpenGait](https://github.com/ShiqiYu/OpenGait/)] )
 * [Gait recognition via disentangled representation learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Gait_Recognition_via_Disentangled_Representation_Learning_CVPR_2019_paper.html) - Z. Zhang et al., CVPR2019
 * [EV-gait: Event-based robust gait recognition using dynamic vision sensors](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.html) - Y. Wang et al., CVPR2019
+* [Learning joint gait representation via quintuplet loss minimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Learning_Joint_Gait_Representation_via_Quintuplet_Loss_Minimization_CVPR_2019_paper.html) - K. Zhang et al., CVPR2019
+* [Gait energy image restoration using generative adversarial networks](https://ieeexplore.ieee.org/abstract/document/8803236/) - M. Babaee et al., ICIP2019
 * [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096/) - Y. Zhang et al.,TIP2019
+
 * [Attentive spatial–temporal summary networks for feature learning in irregular gait recognition](https://ieeexplore.ieee.org/abstract/document/8643814/) - S. Li et al., TMM2019
 * [Coupled bilinear discriminant projection for cross-view gait recognition](https://ieeexplore.ieee.org/abstract/document/8616800/) - X. Ben et al., TCSVT2019
 * [Gaitnet: An end-to-end network for gait based human identification](https://www.sciencedirect.com/science/article/pii/S0031320319302912) - C. Song PR2019
-* [Learning joint gait representation via quintuplet loss minimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Learning_Joint_Gait_Representation_via_Quintuplet_Loss_Minimization_CVPR_2019_paper.html) - K. Zhang et al., CVPR2019
+
 * [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/pii/S0031320319301694) - Y. Zhang et al., PR2019 
-* [Multi-task GANs for view-specific feature learning in gait recognition](https://ieeexplore.ieee.org/abstract/document/8374898/) - Y. He et al., TIFS2019
-* [On input/output architectures for convolutional neural network-based cross-view gait recognition](https://ieeexplore.ieee.org/abstract/document/8063344/) - N. Takemura et al., TCSVT2019
-* [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096/) - Y. Zhang et al., TIP2019
-* [Gait energy image restoration using generative adversarial networks](https://ieeexplore.ieee.org/abstract/document/8803236/) - M. Babaee et al., ICIP2019
+
+
 * [Joint intensity transformer network for gait recognition robust against clothing and carrying status](https://ieeexplore.ieee.org/abstract/document/8695052/) - X. Li et al., TIFS2019
+
 
 #### 2018
 
@@ -117,15 +120,18 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2017
 
-* [Multi-gait recognition based on attribute discovery](https://ieeexplore.ieee.org/abstract/document/7976333/) - X. Chen et al., TPAMI2017
+
 * [Joint intensity and spatial metric learning for robust gait recognition](http://openaccess.thecvf.com/content_cvpr_2017/html/Makihara_Joint_Intensity_and_CVPR_2017_paper.html) - Y. Makihara et al., CVPR2017
 * [Gaitgan: Invariant gait feature extraction using generative adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/html/Yu_GaitGAN_Invariant_Gait_CVPR_2017_paper.html) - S. Yu et al., CVPRW2017
-* [A comprehensive study on cross-view gait based human identification with deep cnns](https://www.computer.org/csdl/api/v1/periodical/trans/tp/2017/02/07809244/13rRUNvyamg/download-article/pdf) - Z. Wu et al., TPAMI2017
+
+* [Multi-gait recognition based on attribute discovery](https://ieeexplore.ieee.org/abstract/document/7976333/) - X. Chen et al., TPAMI2017
+* [On input/output architectures for convolutional neural network-based cross-view gait recognition](https://ieeexplore.ieee.org/abstract/document/8063344/) - N. Takemura et al., TCSVT2017
 
 #### 2016
 
 * [Learning effective gait features using LSTM](https://ieeexplore.ieee.org/abstract/document/7899654/) - Y. Feng et al., ICPR2016
 * [Multi-view gait recognition using 3D convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7533144/) - T. Wolf et al., ICIP2016
+* [A comprehensive study on cross-view gait based human identification with deep cnns](https://ieeexplore.ieee.org/document/7439821) - Z. Wu et al., TPAMI2016
 * [Complete canonical correlation analysis with application to multi-view gait recognition](https://www.sciencedirect.com/science/article/pii/S003132031500299X) - X. Xing et al., PR2016
 * [Geinet: View-invariant gait recognition using a convolutional neural network](https://ieeexplore.ieee.org/abstract/document/7550060/) -K. Shiraga et al., ICB 2016 (GEINet)
 
@@ -144,11 +150,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Gait recognition under various viewing angles based on correlated motion regression](https://ieeexplore.ieee.org/abstract/document/6145627/) - W. Kusakunniran et al., TCSVT2012
 
 #### 2011
-
-* [Gait flow image: A silhouette-based gait representation for human identification](https://www.sciencedirect.com/science/article/pii/S0031320310004954) - THW. Lam et al., PR2011
 * [Gait recognition with shifted energy image and structural feature extraction](https://ieeexplore.ieee.org/abstract/document/6111293/) - X. Huang et al., TIP2011
-* [Human identification using temporal information preserving gait template](https://ieeexplore.ieee.org/abstract/document/6112763/) - C. Wang et al., TPAMI2011
 * [Robust view transformation model for gait recognition](https://ieeexplore.ieee.org/abstract/document/6115889/) - S. Zheng et al., ICIP2011
+* [Gait flow image: A silhouette-based gait representation for human identification](https://www.sciencedirect.com/science/article/pii/S0031320310004954) - THW. Lam et al., PR2011
+* [Human identification using temporal information preserving gait template](https://ieeexplore.ieee.org/abstract/document/6112763/) - C. Wang et al., TPAMI2011
+
 
 #### 2010
 
@@ -270,10 +276,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Multi-view large population gait database with human meshes and its performance evaluation](https://ieeexplore.ieee.org/abstract/document/9773349/) -  X. Li et al., TBIOM 2022 （⚡***OUMVLP-Mesh*** [[download]](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitLPMesh.html)）
 * [CASIA-E: A Large Comprehensive Dataset for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9796582/) - C. Song et al., TPAMI2022 (⚡***CASIA-E*** [[download]](https://www.scidb.cn/detail?dataSetId=57be0e918db743279baf44a38d013a06))
 * [Front View Gait (FVG-B) Database](http://cvlab.cse.msu.edu/pdfs/FVG_B_Report.pdf) - Y. Su et al., Univer Web (⚡***FVG-B*** [[download]](http://cvlab.cse.msu.edu/frontal-view-gaitfvg-database.html))
-* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv 2022
+* [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  ICCV2022
 * [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022
 * [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., Arxiv 2022 (MVPNet)
-
+* [A Dataset and Method for Gait Recognition with Unmanned Aerial Vehicless](https://ieeexplore.ieee.org/abstract/document/9859840/) - T. Ding et al., ICME2022
 
 #### 2021
 
