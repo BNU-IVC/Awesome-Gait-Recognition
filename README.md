@@ -47,7 +47,6 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [STAR: Spatio-Temporal Augmented Relation Network for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9913216/) - X. Huang et al., TBIOM 2022
 * [Decomposing Identity and View for Cross-View Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9859981/) - X. Zhai et al., ICME2022
 * [GaitTransformer: Multiple-Temporal-Scale Transformer for Cross-View Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9859928/) -Y. Cut et al., ICME2022
-* [A Dataset and Method for Gait Recognition with Unmanned Aerial Vehicless](https://ieeexplore.ieee.org/abstract/document/9859840/) - T. Ding et al., ICME2022
 * [GaitStrip: Gait Recognition via Effective Strip-based Feature Representations and Multi-Level Framework](https://openaccess.thecvf.com/content/ACCV2022/html/Wang_GaitStrip_Gait_Recognition_via_Effective_Strip-based_Feature_Representations_and_Multi-Level_ACCV_2022_paper.html) - M. Wang et al., ACCV2022
 * [FedGait: A Benchmark for Federated Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9956474/) - Z. Li et al.,  ICPR2022
 * [Interpretable Gait Recognition by Granger Causality](https://ieeexplore.ieee.org/abstract/document/9956624/) - M. Balazia et al., ICPR2022
