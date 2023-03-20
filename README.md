@@ -81,6 +81,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2020
 
 * [Gaitpart: Temporal part-based model for gait recognition](http://openaccess.thecvf.com/content_CVPR_2020/html/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.html) - C. Fan et al., CVPR2020 (⚡***GaitPart*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
+
 * [Gait recognition via semi-supervised disentangled representation learning to identity and covariate features](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Gait_Recognition_via_Semi-supervised_Disentangled_Representation_Learning_to_Identity_and_CVPR_2020_paper.html) - X. Li et al., CVPR2020
 * [Gait lateral network: Learning discriminative and compact representations for gait recognition](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_22) - S. You et al., ECCV2020  (⚡***GLN*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
 * [Gait recognition from a single image using a phase-aware gait cycle reconstruction network](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_23) - C. Xu et al., ECCV2020
@@ -131,6 +132,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2016
 
 * [Learning effective gait features using LSTM](https://ieeexplore.ieee.org/abstract/document/7899654/) - Y. Feng et al., ICPR2016
+
 * [Multi-view gait recognition using 3D convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7533144/) - T. Wolf et al., ICIP2016
 * [A comprehensive study on cross-view gait based human identification with deep cnns](https://ieeexplore.ieee.org/document/7439821) - Z. Wu et al., TPAMI2016
 * [Complete canonical correlation analysis with application to multi-view gait recognition](https://www.sciencedirect.com/science/article/pii/S003132031500299X) - X. Xing et al., PR2016
@@ -139,6 +141,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2014
 
 * [Recognizing gaits on spatio-temporal feature domain](https://ieeexplore.ieee.org/abstract/document/6849450/) - W. Kusakunniran et al., TIFS2014
+
 * [Recognizing gaits across views through correlated motion co-clustering](https://ieeexplore.ieee.org/abstract/document/6680737/) - W.Kusakunniran et al. TIP2014
 * [Uncooperative gait recognition by learning to rank](https://www.sciencedirect.com/science/article/pii/S0031320314002325) - R.l Martín-Félez et al., PR2014
 
@@ -152,6 +155,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2011
 * [Gait recognition with shifted energy image and structural feature extraction](https://ieeexplore.ieee.org/abstract/document/6111293/) - X. Huang et al., TIP2011
+
 * [Robust view transformation model for gait recognition](https://ieeexplore.ieee.org/abstract/document/6115889/) - S. Zheng et al., ICIP2011
 * [Gait flow image: A silhouette-based gait representation for human identification](https://www.sciencedirect.com/science/article/pii/S0031320310004954) - THW. Lam et al., PR2011
 * [Human identification using temporal information preserving gait template](https://ieeexplore.ieee.org/abstract/document/6112763/) - C. Wang et al., TPAMI2011
@@ -164,16 +168,19 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2008
 
 * [Viewpoint invariant pedestrian recognition with an ensemble of localized features](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_21) - D. Gray et al., ECCV2008
+
 * [Extracting a diagnostic gait signature](https://www.sciencedirect.com/science/article/pii/S003132030700492X) - H. Lakany et al., PR2008
 
 #### 2007
 
 * [Walking speed influences on gait cycle variability](https://www.sciencedirect.com/science/article/pii/S0966636206001846) - K. Jordan et al., Gait&posture2007
+
 * [Gait recognition using compact feature extraction transforms and depth information](https://ieeexplore.ieee.org/abstract/document/4291549/) - D. Loannidis et al., TIFS2007
 
 #### 2006
 
 * [Individual recognition using gait energy image](https://ieeexplore.ieee.org/abstract/document/1561189/) - J. Han et al., TPAMI2006 
+
 * [A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition](https://ieeexplore.ieee.org/abstract/document/1699873/) - S. You et al., ICPR2006
 * [Gait recognition using a view transformation model in the frequency domain](https://link.springer.com/chapter/10.1007/11744078_12) - Y. Makihara et al., ECCV2006
 
