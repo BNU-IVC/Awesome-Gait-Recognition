@@ -37,6 +37,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2022
 
 * [Metagait: Learning to learn an omni sample adaptive representation for gait recognition](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_21) - H. Dou et al., ECCV 2022 (⚡**MetaGait** [[Official  Code]](https://github.com/WhiteDOU/MetaGait))
+
 * [Lagrange Motion Analysis and View Embeddings for Improved Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Chai_Lagrange_Motion_Analysis_and_View_Embeddings_for_Improved_Gait_Recognition_CVPR_2022_paper.html) - T. Chai et al., CVPR2022 (⚡***LagrangeGait*** [[Official  Code]](https://github.com/ctrasd/LagrangeGait))
 * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., CVPR2022 (⚡***Gait3D*** [[Official  Code]](https://github.com/Gait3D/Gait3D-Benchmark))
 * [GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality](https://arxiv.org/abs/2203.03972) - J. Liang et al., ECCV2022 (⚡***GaitEdge*** [[OpenGait]](https://github.com/ShiqiYu/OpenGait/))
