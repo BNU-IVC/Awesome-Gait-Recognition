@@ -26,7 +26,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 #### 2023
-
+* [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al., Arxiv2023
 * [Exploring Deep Models for Practical Gait Recognition](https://arxiv.org/abs/2303.03301) - C. Fan et al., Arxiv2023
 * [Gait Recognition Using 3-D Human Body Shape Inference](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html) - H. Zhu et al., WACV2023
 * [Temporal sparse adversarial attack on sequence-based gait recognition](https://arxiv.org/pdf/2002.09674) - Z. He et al., PR2023
