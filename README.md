@@ -26,6 +26,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 #### 2023
+*[GaitRef: Gait Recognition with Refined Sequential Skeletons](https://arxiv.org/abs/2304.07916) - H. Zhu et al., Arxiv2023
 * [Unsupervised Gait Recognition with Selective Fusion](https://arxiv.org/abs/2303.10772) - X. Ren et al., Arxiv2023
 * [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al., Arxiv2023
 * [Exploring Deep Models for Practical Gait Recognition](https://arxiv.org/abs/2303.03301) - C. Fan et al., Arxiv2023
