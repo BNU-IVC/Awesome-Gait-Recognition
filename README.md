@@ -26,6 +26,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 #### 2023
+* [GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition](https://arxiv.org/abs/2301.13384) -E. Pinyoanuntapong et al., Arxiv2023
+* [GaitEditer: Attribute Editing for Gait Representation Learning](https://arxiv.org/abs/2303.05076) - D. Ye et al., Arxiv2023
 * [GaitRef: Gait Recognition with Refined Sequential Skeletons](https://arxiv.org/abs/2304.07916) - H. Zhu et al., Arxiv2023
 * [Unsupervised Gait Recognition with Selective Fusion](https://arxiv.org/abs/2303.10772) - X. Ren et al., Arxiv2023
 * [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al., Arxiv2023
