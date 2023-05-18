@@ -10,6 +10,11 @@
 
 Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
 
+## 🎉New Update🎉
+* [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al., Arxiv2023 
+* [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H, Hung-Min, et al., IEEE J-STSP2023
+
+
 ## Contents
 
 - [Appearance based Gait Recognition](#appearance-based-gait-recognition)
@@ -191,6 +196,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 #### 2023
 
 * [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al., Arxiv2023 
+
+* [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H, Hung-Min, et al., IEEE J-STSP2023
 
 #### 2022
 
