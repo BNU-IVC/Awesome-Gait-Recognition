@@ -10,9 +10,14 @@
 
 Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
 
-## 🎉New Update🎉
-* [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al., Arxiv2023 (GPGait)
-* [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H, Hung-Min, et al., IEEE J-STSP2023 (GaitTAKE)
+## 🎉Six CVPR2023 Papers Update🎉
+* [Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf) - Y. Cui et al., CVPR2023
+* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al., CVPR2023
+* [OpenGait: Revisiting Gait Recognition Towards Better Practicality](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_OpenGait_Revisiting_Gait_Recognition_Towards_Better_Practicality_CVPR_2023_paper.pdf) - C. Fan et al., CVPR2023
+* [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al., CVPR2023
+* [LidarGait: Benchmarking 3D Gait Recognition With Point Clouds](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf) - C. Shen et al., CVPR2023
+
+* [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al., CVPR2023
 
 
 ## Contents
@@ -31,6 +36,12 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 #### 2023
+* [Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf) - Y. Cui et al., CVPR2023
+* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al., CVPR2023
+
+* [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al., CVPR2023
+
+* [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al., CVPR2023
 * [GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition](https://arxiv.org/abs/2301.13384) -E. Pinyoanuntapong et al., Arxiv2023
 * [GaitEditer: Attribute Editing for Gait Representation Learning](https://arxiv.org/abs/2303.05076) - D. Ye et al., Arxiv2023
 * [GaitRef: Gait Recognition with Refined Sequential Skeletons](https://arxiv.org/abs/2304.07916) - H. Zhu et al., Arxiv2023
@@ -273,7 +284,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Front View Gait (FVG-B) Database](http://cvlab.cse.msu.edu/pdfs/FVG_B_Report.pdf) - Y. Su et al., Univer Web (⚡***FVG-B*** [[download]](http://cvlab.cse.msu.edu/frontal-view-gaitfvg-database.html))
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022
 * [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022 (GaitSSB)
-* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., Arxiv 2022 (MVPNet)
+* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., CVPR 2023 (MVPNet)
 
 
 #### 2021
