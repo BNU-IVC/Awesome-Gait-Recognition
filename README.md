@@ -10,14 +10,10 @@
 
 Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
 
-## 🎉Six CVPR2023 Papers Update🎉
-* [Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf) - Y. Cui et al., CVPR2023
-* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al., CVPR2023
-* [OpenGait: Revisiting Gait Recognition Towards Better Practicality](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_OpenGait_Revisiting_Gait_Recognition_Towards_Better_Practicality_CVPR_2023_paper.pdf) - C. Fan et al., CVPR2023
-* [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al., CVPR2023
-* [LidarGait: Benchmarking 3D Gait Recognition With Point Clouds](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf) - C. Shen et al., CVPR2023
+## 🎉 New Pytorch Framework for Pose-based Gait Recognition 🎉
 
-* [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al., CVPR2023
+
+* [FastPoseGait](https://github.com/BNU-IVC/FastPoseGait) - S. Meng et al.
 
 
 ## Contents
