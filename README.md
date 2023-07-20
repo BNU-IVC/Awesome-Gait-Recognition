@@ -442,6 +442,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## Gait Recognition Dataset and Evaluation
 
+
+#### 2023
+
+* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (MVPNet)
+
 #### 2022
 
 * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Gait_Recognition_in_the_Wild_With_Dense_3D_Representations_and_CVPR_2022_paper.html) - J. Zheng et al., **CVPR2022** (⚡***Gait3D*** [[download]](https://gait3d.github.io/))
@@ -451,7 +456,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Front View Gait (FVG-B) Database](http://cvlab.cse.msu.edu/pdfs/FVG_B_Report.pdf) - Y. Su et al., Univer Web (⚡***FVG-B*** [[download]](http://cvlab.cse.msu.edu/frontal-view-gaitfvg-database.html))
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022
 * [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022 (GaitSSB)
-* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (MVPNet)
+
 
 
 #### 2021
