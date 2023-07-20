@@ -30,11 +30,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 **ICCV2023**
-* [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al., ICCV2023
+* [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al.
 
 **CVPR2023**
 * [Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf) - Y. Cui et al.
-* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al.
+* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al.(CCPG)
 
 * [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al.
 
