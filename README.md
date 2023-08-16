@@ -349,7 +349,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 **ICCV2023**
-* [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al. (GPGait)
+* [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al. ((⚡***GPGait*** [[code]](https://github.com/BNU-IVC/FastPoseGait)))
 
 **IEEE J-STSP2023**
 * [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H, Hung-Min, et al.(GaitTAKE)
