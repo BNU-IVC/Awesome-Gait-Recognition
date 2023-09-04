@@ -48,6 +48,12 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Gait Recognition Using 3-D Human Body Shape Inference](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html) - H. Zhu et al.
 
 **Arxiv2023**
+* [Free Lunch for Gait Recognition: A Novel Relation Descriptor](https://arxiv.org/pdf/2308.11487.pdf) - J. Wang et al.
+  
+* [TriGait: Aligning and Fusing Skeleton and Silhouette Gait Data via a Tri-Branch Network](https://arxiv.org/pdf/2308.13340.pdf) - Y. Sun et al.
+  
+* [Parsing is All You Need for Accurate Gait Recognition in the Wild](https://arxiv.org/pdf/2308.16739.pdf) - J. Zheng et al.
+  
 * [GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition](https://arxiv.org/abs/2301.13384) -E. Pinyoanuntapong et al.
 
 * [GaitEditer: Attribute Editing for Gait Representation Learning](https://arxiv.org/abs/2303.05076) - D. Ye et al.
@@ -354,7 +360,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Physics-Augmented Autoencoder for 3D Skeleton-Based Gait Recognition](waiting to be released) - H. Guo et al.
 
 **IEEE J-STSP2023**
-* [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H, Hung-Min, et al.(GaitTAKE)
+* [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H. Hung-Min, et al.(GaitTAKE)
+
+**TMM2023**
+* [Condition-Adaptive Graph Convolution Learning for Skeleton-Based Gait Recognition](https://arxiv.org/pdf/2308.06707.pdf) -X. Huang et al.
 
 #### 2022
 **CVPR2022**
