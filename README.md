@@ -362,7 +362,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **IEEE J-STSP2023**
 * [Learning Temporal Attention based Keypoint-guided Embedding for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10113150/) - H. Hung-Min, et al.(GaitTAKE)
 
-**TMM2023**
+**TIP2023**
 * [Condition-Adaptive Graph Convolution Learning for Skeleton-Based Gait Recognition](https://arxiv.org/pdf/2308.06707.pdf) -X. Huang et al.
 
 #### 2022
