@@ -29,10 +29,20 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 #### 2023
+**MM2023**
+* [Causal Intervention for Sparse-View Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3612124) - J. Wang et al.
+* [LandmarkGait: Intrinsic Human Parsing for Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611840) - Z. Wang et al.
+
+**TMM2023**
+* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al.
+* [Gait Recognition With Multi-Level Skeleton-Guided Refinement](https://ieeexplore.ieee.org/abstract/document/10295566) - R. Wang et al.
+* [GaitParsing: Human Semantic Parsing for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10288081) - Z. Wang et al.
+
 **ICCV2023**
 *  [Fine-grained Unsupervised Domain Adaptation for Gait Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Fine-grained_Unsupervised_Domain_Adaptation_for_Gait_Recognition_ICCV_2023_paper.pdf) - K. Ma et al.
 * [DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition](https://arxiv.org/abs/2303.14953) - M. Wang et al.
 * [Hierarchical Spatio-Temporal Representation Learning for Gait Recognition](https://arxiv.org/abs/2307.09856) - L. Wang et al.
+* [Occluded Gait Recognition via Silhouette Registration Guided by Automated Occlusion Degree Estimation](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Xu_Occluded_Gait_Recognition_via_Silhouette_Registration_Guided_by_Automated_Occlusion_ICCVW_2023_paper.html) - C. Xu et al.
 
 
 **CVPR2023**
@@ -458,7 +468,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 
+* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al., **TMM2023** (DroneGait)
+
 * [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (MVPNet)
+
+
 
 #### 2022
 
