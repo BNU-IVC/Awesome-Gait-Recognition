@@ -32,6 +32,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **MM2023**
 * [Causal Intervention for Sparse-View Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3612124) - J. Wang et al.
 * [LandmarkGait: Intrinsic Human Parsing for Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611840) - Z. Wang et al.
+* [Parsing is All You Need for Accurate Gait Recognition in the Wild](https://dl.acm.org/doi/10.1145/3581783.3612052) - J. Zheng et al.
 
 **TMM2023**
 * [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al.
