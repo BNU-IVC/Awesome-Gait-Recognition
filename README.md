@@ -532,7 +532,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 
-* [FastPoseGait](https://github.com/BNU-IVC/FastPoseGait) - S. Meng et al.
+* [FastPoseGait](https://github.com/BNU-IVC/FastPoseGait) - S. Meng et al. (⚡ ***FastPoseGait*** [[Link]](https://github.com/BNU-IVC/FastPoseGait))
 
 
 
