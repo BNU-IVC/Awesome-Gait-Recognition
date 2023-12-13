@@ -492,9 +492,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 
-* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al., **TMM2023** (⚡***DroneGait***[[download]](https://github.com/BNU-IVC/DroneGait))
+* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al., **TMM2023** (⚡***DroneGait*** [[download]](https://github.com/BNU-IVC/DroneGait))
 
-* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (⚡***SUSTech1K***[[download]](https://lidargait.github.io/))
+* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (⚡***SUSTech1K*** [[download]](https://lidargait.github.io/))
 
 * [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al. **CVPR2023** (⚡***CCPG*** [[download]](https://github.com/BNU-IVC/CCPG))
 
