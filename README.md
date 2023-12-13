@@ -28,11 +28,20 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## Appearance based Gait Recognition
 
+### 2024
+**AAAI2024**
+* [SkeletonGait: Gait Recognition Using Skeleton Maps](https://arxiv.org/abs/2311.13444) - C. Fan et al. (⚡***SkeletonGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
+
+**WACV2024**
+* [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](https://arxiv.org/abs/2312.02290) - A. Gupta et al. ✨  **Oral Paper** ✨ 
+
 #### 2023
+
+
 **MM2023**
 * [Causal Intervention for Sparse-View Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3612124) - J. Wang et al.
-* [LandmarkGait: Intrinsic Human Parsing for Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611840) - Z. Wang et al.
-* [Parsing is All You Need for Accurate Gait Recognition in the Wild](https://dl.acm.org/doi/10.1145/3581783.3612052) - J. Zheng et al.
+* [LandmarkGait: Intrinsic Human Parsing for Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611840) - Z. Wang et al. (⚡***LandmarkGait*** [[code]](https://github.com/wzb-bupt/LandmarkGait))
+* [Parsing is All You Need for Accurate Gait Recognition in the Wild](https://dl.acm.org/doi/10.1145/3581783.3612052) - J. Zheng et al.  (⚡***ParsingGait*** [[code]](https://github.com/ShiqiYu/OpenGait))  ✨ **Oral Paper** ✨ 
 
 **TMM2023**
 * [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al.
@@ -50,20 +59,39 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.pdf) - Y. Cui et al.
 * [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al.(CCPG)
 
-* [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al.
+* [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al. (GaitGCI)
 
 * [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al.
 
+* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al. (⚡***LidarGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
 
 **WACV2023**
 * [Gait Recognition Using 3-D Human Body Shape Inference](https://openaccess.thecvf.com/content/WACV2023/html/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.html) - H. Zhu et al.
 
+
+**PR2023**
+* [Temporal sparse adversarial attack on sequence-based gait recognition](https://arxiv.org/pdf/2002.09674) - Z. He et al.
+
+**TIFS2023**
+* [Occlusion-aware Human Mesh Model-based Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10015098/) - C. Xu et al.
+
+* [GaitReload: A Reloading Framework for Defending Against On-Manifold Adversarial Gait Sequences](https://ieeexplore.ieee.org/abstract/document/10025772/) - P. Du et al.
+
+**TPAMI2023**
+* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://ieeexplore.ieee.org/document/10242019) - C. Fan et al. (⚡***GaitSSB*** [[code]](https://github.com/ShiqiYu/OpenGait))
+
+
 **Arxiv2023**
+
+* [HiH: A Multi-modal Hierarchy in Hierarchy Network for Unconstrained Gait Recognition](https://arxiv.org/abs/2311.11210) - L. Wang et al.
+
+* [POISE: Pose Guided Human Silhouette Extraction under Occlusions](https://arxiv.org/abs/2311.05077) - A. Dutta et al.
+
+
 * [Free Lunch for Gait Recognition: A Novel Relation Descriptor](https://arxiv.org/pdf/2308.11487.pdf) - J. Wang et al.
   
 * [TriGait: Aligning and Fusing Skeleton and Silhouette Gait Data via a Tri-Branch Network](https://arxiv.org/pdf/2308.13340.pdf) - Y. Sun et al.
   
-* [Parsing is All You Need for Accurate Gait Recognition in the Wild](https://arxiv.org/pdf/2308.16739.pdf) - J. Zheng et al.
   
 * [GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition](https://arxiv.org/abs/2301.13384) -E. Pinyoanuntapong et al.
 
@@ -74,14 +102,6 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Unsupervised Gait Recognition with Selective Fusion](https://arxiv.org/abs/2303.10772) - X. Ren et al.
 
 * [Exploring Deep Models for Practical Gait Recognition](https://arxiv.org/abs/2303.03301) - C. Fan et al.
-
-**PR2023**
-* [Temporal sparse adversarial attack on sequence-based gait recognition](https://arxiv.org/pdf/2002.09674) - Z. He et al.
-
-**TIFS2023**
-* [Occlusion-aware Human Mesh Model-based Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10015098/) - C. Xu et al.
-
-* [GaitReload: A Reloading Framework for Defending Against On-Manifold Adversarial Gait Sequences](https://ieeexplore.ieee.org/abstract/document/10025772/) - P. Du et al.
 
 
 #### 2022
@@ -139,7 +159,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [A unified perspective of classification-based loss and distance-based loss for cross-view gait recognition](https://www.sciencedirect.com/science/article/pii/S0031320321006956) - F. Han et al.
 
 **Arxiv2022**
-* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al. (GaitSSB)
+
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al. (LiCamGait)
 
 #### 2021
@@ -225,7 +245,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Gaitset: Regarding gait as a set for cross-view gait recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4821) - H. Chao et al., AAAI2019 (⚡ ***GaitSet*** [[Official  Code](https://github.com/AbnerHqC/GaitSet), [OpenGait](https://github.com/ShiqiYu/OpenGait/)] )
 
 **CVPR2019**
-* [Gait recognition via disentangled representation learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Gait_Recognition_via_Disentangled_Representation_Learning_CVPR_2019_paper.html) - Z. Zhang et al.
+* [Gait recognition via disentangled representation learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Gait_Recognition_via_Disentangled_Representation_Learning_CVPR_2019_paper.html) - Z. Zhang et al. ✨  **Oral Paper** ✨ 
 
 * [EV-gait: Event-based robust gait recognition using dynamic vision sensors](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.html) - Y. Wang et al.
 
@@ -376,6 +396,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **TIP2023**
 * [Condition-Adaptive Graph Convolution Learning for Skeleton-Based Gait Recognition](https://arxiv.org/pdf/2308.06707.pdf) -X. Huang et al.
 
+**Arxiv2023**
+* [GaitContour: Efficient Gait Recognition based on a Contour-Pose Representation](https://arxiv.org/abs/2311.16497) - Y. Guo et al.
+
 #### 2022
 **CVPR2022**
 * [Towards a Deeper Understanding of Skeleton-based Gait Recognition](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Teepe_Towards_a_Deeper_Understanding_of_Skeleton-Based_Gait_Recognition_CVPRW_2022_paper.html) - T. Teepe et al., CVPRW2022 (⚡***GaitGraph2*** [[code]](https://github.com/tteepe/GaitGraph2))
@@ -469,10 +492,13 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 
-* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al., **TMM2023** (DroneGait)
+* [Gait Recognition with Drones: A Benchmark](https://ieeexplore.ieee.org/abstract/document/10243069/) - A. Li et al., **TMM2023** (⚡***DroneGait***[[download]](https://github.com/BNU-IVC/DroneGait))
 
-* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (MVPNet)
+* [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al., **CVPR2023** (⚡***SUSTech1K***[[download]](https://lidargait.github.io/))
 
+* [An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf) - W. Li et al. **CVPR2023** (⚡***CCPG*** [[download]](https://github.com/BNU-IVC/CCPG))
+
+* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://ieeexplore.ieee.org/document/10242019) - C. Fan et al. **TPAMI2023** (⚡***GaitLU-1M*** [[download]](https://github.com/ShiqiYu/OpenGait/blob/master/datasets/GaitLU-1M/README.md))
 
 
 #### 2022
@@ -528,7 +554,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 **Pytorch**
 
-* [OpenGait: Revisiting Gait Recognition Toward Better Practicality](https://arxiv.org/abs/2211.06597) - C. Fan et al., CVPR2023 (⚡ ***OpenGait*** [[Link]](https://github.com/ShiqiYu/OpenGait))
+* [OpenGait: Revisiting Gait Recognition Toward Better Practicality](https://arxiv.org/abs/2211.06597) - C. Fan et al., CVPR2023 (⚡ ***OpenGait*** [[Link]](https://github.com/ShiqiYu/OpenGait)) ✨ **Highlight Paper** ✨ 
 
 
 
