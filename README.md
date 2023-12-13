@@ -509,7 +509,6 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [Multi-view large population gait database with human meshes and its performance evaluation](https://ieeexplore.ieee.org/abstract/document/9773349/) -  X. Li et al., TBIOM 2022 （⚡***OUMVLP-Mesh*** [[download]](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitLPMesh.html)）
 * [Front View Gait (FVG-B) Database](http://cvlab.cse.msu.edu/pdfs/FVG_B_Report.pdf) - Y. Su et al., Univer Web (⚡***FVG-B*** [[download]](http://cvlab.cse.msu.edu/frontal-view-gaitfvg-database.html))
 * [LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](https://arxiv.org/abs/2211.12371) - X. Han et al.,  Arxiv2022
-* [Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark](https://arxiv.org/abs/2206.13964) - C. Fan et al., Arxiv 2022 (GaitSSB)
 
 
 
