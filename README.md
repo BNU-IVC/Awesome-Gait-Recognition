@@ -61,7 +61,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 * [GaitGCI: Generative Counterfactual Intervention for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf) - H. Dou et al. (GaitGCI)
 
-* [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al.
+* [Dynamic Aggregated Network for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Dynamic_Aggregated_Network_for_Gait_Recognition_CVPR_2023_paper.pdf) - K. Ma et al. (DANet)
 
 * [LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598) - C. Shen et al. (⚡***LidarGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
 
