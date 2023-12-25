@@ -11,7 +11,11 @@
 Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-gait-recognition/pulls) or email ([aleeyanger@gmail.com](mailto:aleeyanger@gmail.com)) to add links.
 
 
-
+## What's New
+**Update two papers**
+* [Cross-Covariate Gait Recognition: A Benchmark](https://arxiv.org/abs/2312.14404) - S. Zou et al. (⚡***CCRG***[[download]](https://github.com/ShinanZou/CCGR))
+  
+* [A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition](https://arxiv.org/abs/2312.14410) - S. Zou et.al. (⚡***MSAFF***[[code]](https://github.com/ShinanZou/MSAFF))
 
 ## Contents
 
@@ -37,6 +41,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 #### 2023
 
+**IJCB2023**
+* [A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition](https://arxiv.org/abs/2312.14410) - S. Zou et.al. (⚡***MSAFF***[[code]](https://github.com/ShinanZou/MSAFF))
 
 **MM2023**
 * [Causal Intervention for Sparse-View Gait Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3612124) - J. Wang et al.
@@ -488,6 +494,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## Gait Recognition Dataset and Evaluation
+
+### 2024
+**AAAI2024**
+* [Cross-Covariate Gait Recognition: A Benchmark](https://arxiv.org/abs/2312.14404) - S. Zou et al. (⚡***CCRG***[[download]](https://github.com/ShinanZou/CCGR))
 
 
 #### 2023
