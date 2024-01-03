@@ -13,9 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update two papers**
-* [Cross-Covariate Gait Recognition: A Benchmark](https://arxiv.org/abs/2312.14404) - S. Zou et al. (⚡***CCRG*** [[download]](https://github.com/ShinanZou/CCGR))
-  
-* [A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition](https://arxiv.org/abs/2312.14410) - S. Zou et.al. (⚡***MSAFF*** [[code]](https://github.com/ShinanZou/MSAFF))
+* [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. 
 
 ## Contents
 
@@ -35,7 +33,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ### 2024
 **AAAI2024**
 * [SkeletonGait: Gait Recognition Using Skeleton Maps](https://arxiv.org/abs/2311.13444) - C. Fan et al. (⚡***SkeletonGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
-* [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations]() - Y. Dong et al. (waiting for publication)
+* [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. 
 * [QAGait: Revisit Gait Recognition From a Quality Perspective]() -Z. Wang et al. (waiting for publication)
 
 **WACV2024**
