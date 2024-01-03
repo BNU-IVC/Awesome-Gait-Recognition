@@ -12,7 +12,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update two papers**
+**Update one paper**
 * [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. 
 
 ## Contents
