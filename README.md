@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. (AAAI24)
+* [QAGait: Revisit Gait Recognition From a Quality Perspective](https://arxiv.org/pdf/2401.13531.pdf) -Z. Wang et al. (AAAI24)
 
 ## Contents
 
@@ -34,7 +34,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **AAAI2024**
 * [SkeletonGait: Gait Recognition Using Skeleton Maps](https://arxiv.org/abs/2311.13444) - C. Fan et al. (⚡***SkeletonGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
 * [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. 
-* [QAGait: Revisit Gait Recognition From a Quality Perspective]() -Z. Wang et al. (waiting for publication)
+* [QAGait: Revisit Gait Recognition From a Quality Perspective](https://arxiv.org/pdf/2401.13531.pdf) -Z. Wang et al.
 
 **WACV2024**
 * [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](https://arxiv.org/abs/2312.02290) - A. Gupta et al. ✨  **Oral Paper** ✨ 
