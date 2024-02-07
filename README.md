@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [QAGait: Revisit Gait Recognition From a Quality Perspective](https://arxiv.org/pdf/2401.13531.pdf) - Z. Wang et al. (AAAI24)
+* [Cloth-Imbalanced Gait Recognition via Hallucination](https://ieeexplore.ieee.org/abstract/document/10416402) - S. Hou et al (TCSVT2024)
 
 ## Contents
 
@@ -30,7 +30,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## Appearance based Gait Recognition
 
-### 2024
+### TCSVT2024
+****
+* [Cloth-Imbalanced Gait Recognition via Hallucination](https://ieeexplore.ieee.org/abstract/document/10416402) - S. Hou et al
+
 **AAAI2024**
 * [SkeletonGait: Gait Recognition Using Skeleton Maps](https://arxiv.org/abs/2311.13444) - C. Fan et al. (⚡***SkeletonGait*** [[code]](https://github.com/ShiqiYu/OpenGait))
 * [HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations](https://arxiv.org/pdf/2401.00271) - Y. Dong et al. 
