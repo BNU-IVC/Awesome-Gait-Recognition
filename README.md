@@ -30,8 +30,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## Appearance based Gait Recognition
 
-### TCSVT2024
-****
+### 2024
+**TCSVT2024**
 * [Cloth-Imbalanced Gait Recognition via Hallucination](https://ieeexplore.ieee.org/abstract/document/10416402) - S. Hou et al.
 
 **AAAI2024**
