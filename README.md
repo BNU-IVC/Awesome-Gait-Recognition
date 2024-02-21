@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [Cloth-Imbalanced Gait Recognition via Hallucination](https://ieeexplore.ieee.org/abstract/document/10416402) - S. Hou et al. (TCSVT2024)
+* [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (TIP24 CLASH)
 
 ## Contents
 
@@ -31,6 +31,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 ### 2024
+**TIP2024**
+* [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (CLASH)
+* 
 **TCSVT2024**
 * [Cloth-Imbalanced Gait Recognition via Hallucination](https://ieeexplore.ieee.org/abstract/document/10416402) - S. Hou et al.
 
