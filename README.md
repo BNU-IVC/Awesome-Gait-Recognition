@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (TIP24 CLASH)
+* [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (CVPR2024 BigGait)
 
 ## Contents
 
@@ -31,6 +31,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 ### 2024
+**CVPR2024**
+* [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
+
 **TIP2024**
 * [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (CLASH)
 
