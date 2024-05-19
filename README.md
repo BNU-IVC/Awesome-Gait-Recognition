@@ -13,7 +13,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (CVPR2024 BigGait)
+* [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
+* [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
+* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
+* [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
+* [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
 
 ## Contents
 
@@ -31,6 +35,13 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 ## Appearance based Gait Recognition
 
 ### 2024
+**Arxiv**
+* [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
+* [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
+* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
+* [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
+* [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
+
 **CVPR2024**
 * [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
 
