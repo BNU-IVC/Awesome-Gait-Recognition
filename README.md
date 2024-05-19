@@ -12,7 +12,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update one paper**
+**Update five paper**
 * [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
 * [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
 * [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
