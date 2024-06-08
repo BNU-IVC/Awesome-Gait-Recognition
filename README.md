@@ -15,7 +15,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **Update five paper**
 * [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
 * [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
-* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
+* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification](https://arxiv.org/pdf/2404.04120) - R. Wang et al.
 * [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
 * [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
 
@@ -38,7 +38,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **Arxiv**
 * [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
 * [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
-* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
+* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification](https://arxiv.org/pdf/2404.04120) - R. Wang et al.
 * [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
 * [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
 
