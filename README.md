@@ -12,12 +12,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update five paper**
-* [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
-* [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
-* [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
-* [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
-* [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
+**Update one paper**
+* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.
 
 ## Contents
 
@@ -44,7 +40,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 **CVPR2024**
 * [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
-
+* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.
 **TIP2024**
 * [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (CLASH)
 
