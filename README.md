@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.** (CVPR2024)**
+* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al. **CVPR2024**
 
 ## Contents
 
