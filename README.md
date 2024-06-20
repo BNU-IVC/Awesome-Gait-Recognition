@@ -13,7 +13,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.
+* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.** (CVPR2024)**
 
 ## Contents
 
@@ -41,6 +41,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 **CVPR2024**
 * [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
 * [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al.
+
 **TIP2024**
 * [CLASH: Complementary Learning with Neural Architecture Search for Gait Recognition](https://ieeexplore.ieee.org/document/10439004) - H. Dou et al. (CLASH)
 
