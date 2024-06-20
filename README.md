@@ -572,7 +572,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ✨***Newest***✨
 
-[The 4th International Competition on Human Identification at a Distance 2023 (HID2023)](https://hid2023.iapr-tc4.org/)
+[The 5th International Competition on Human Identification at a Distance 2024 (HID2024)](https://hid2024.iapr-tc4.org/)
 
 
 
