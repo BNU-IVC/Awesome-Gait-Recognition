@@ -13,7 +13,8 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update one paper**
-* [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.pdf) - K. Ma et al. **CVPR2024**
+* [Watch Where You Head: A View-biased Domain Gap in Gait Recognition and
+Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/Habib_Watch_Where_You_Head_A_View-Biased_Domain_Gap_in_Gait_WACV_2024_paper.pdf) - G. Habib et al. **WACV2024**
 
 ## Contents
 
@@ -54,7 +55,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [QAGait: Revisit Gait Recognition From a Quality Perspective](https://arxiv.org/pdf/2401.13531.pdf) - Z. Wang et al.
 
 **WACV2024**
-* [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](https://arxiv.org/abs/2312.02290) - A. Gupta et al. ✨  **Oral Paper** ✨ 
+* [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](https://arxiv.org/abs/2312.02290) - A. Gupta et al. ✨  **Oral Paper** ✨
+* [Watch Where You Head: A View-biased Domain Gap in Gait Recognition and
+Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/Habib_Watch_Where_You_Head_A_View-Biased_Domain_Gap_in_Gait_WACV_2024_paper.pdf) - G. Habib et al.
 
 #### 2023
 
