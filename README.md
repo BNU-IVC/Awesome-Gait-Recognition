@@ -17,6 +17,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 *[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al. (ECCV24)
 *[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al. (ECCV24)
 
+
 ## Contents
 
 - [Appearance based Gait Recognition](#appearance-based-gait-recognition)
@@ -42,10 +43,12 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
 * [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
 
+
 **ECCV2024**
 *[Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
 *[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al.
 *[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al.
+
 
 **CVPR2024**
 * [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
