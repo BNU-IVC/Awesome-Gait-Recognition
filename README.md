@@ -13,9 +13,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## What's New
 **Update three paper**
-*[Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al. (ECCV24)
-*[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al. (ECCV24)
-*[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al. (ECCV24)
+* [Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al. (ECCV24)
+
+* [Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al. (ECCV24)
+
+* [Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al. (ECCV24)
 
 
 ## Contents
@@ -45,9 +47,9 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 **ECCV2024**
-*[Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
-*[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al.
-*[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al.
+* [Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
+* [Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al.
+* [Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al.
 
 
 **CVPR2024**
