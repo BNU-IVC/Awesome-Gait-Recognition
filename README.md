@@ -12,9 +12,10 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update one paper**
-* [Watch Where You Head: A View-biased Domain Gap in Gait Recognition and
-Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/Habib_Watch_Where_You_Head_A_View-Biased_Domain_Gap_in_Gait_WACV_2024_paper.pdf) - G. Habib et al. **WACV2024**
+**Update three paper**
+*[Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al. (ECCV24)
+*[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al. (ECCV24)
+*[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al. (ECCV24)
 
 ## Contents
 
@@ -31,6 +32,8 @@ Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/H
 
 ## Appearance based Gait Recognition
 
+
+
 ### 2024
 **Arxiv**
 * [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
@@ -38,6 +41,11 @@ Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/H
 * [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification]() - R. Wang et al.
 * [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
 * [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
+
+**ECCV2024**
+*[Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
+*[Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al.
+*[Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al.
 
 **CVPR2024**
 * [BigGait: Learning Gait Representation You Want by Large Vision Models](https://arxiv.org/pdf/2402.19122) - D. Ye et al. (BigGait)
