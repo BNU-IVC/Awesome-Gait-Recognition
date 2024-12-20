@@ -20,7 +20,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
   
 * [AerialGait: Bridging Aerial and Ground Views for Gait Recognition](https://dl.acm.org/doi/10.1145/3664647.3681002) - A. Li et al. (MM2024)
   
-* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) X. Han et al.  ✨ **Oral Paper** ✨  (MM2024)
+* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) - X. Han et al. (MM2024✨ **Oral Paper** ✨)
 
 
 ## Contents
