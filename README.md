@@ -12,12 +12,15 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update three paper**
-* [Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al. (ECCV24)
+**Update Four paper**
 
-* [Causality-inspired Discriminative Feature Learning in Triple Domains for Gait Recognition](https://arxiv.org/pdf/2407.12519) -  H. Xiong et al. (ECCV24)
-
-* [Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/pdf/2407.02038) - W. Guo et al. (ECCV24)
+* [It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment](https://arxiv.org/pdf/2411.10742) - J. Zheng et al. (MM2024)
+  
+* [GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild](https://arxiv.org/pdf/2408.06834) - G. Peng et al.  (MM2024)
+  
+* [AerialGait: Bridging Aerial and Ground Views for Gait Recognition](https://dl.acm.org/doi/10.1145/3664647.3681002) - A. Li et al. (MM2024)
+  
+* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) X. Han et al.  ✨ **Oral Paper** ✨  (MM2024)
 
 
 ## Contents
@@ -45,6 +48,11 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling](https://arxiv.org/pdf/2404.10213) - R. Wang et al.
 * [The Paradox of Motion: Evidence for Spurious Correlations in Skeleton-based Gait Recognition Models](https://arxiv.org/pdf/2402.08320) - A. Catruna et al. 
 
+**MM2024**
+* [It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment](https://arxiv.org/pdf/2411.10742) - J. Zheng et al.
+* [GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild](https://arxiv.org/pdf/2408.06834) - G. Peng et al. 
+* [AerialGait: Bridging Aerial and Ground Views for Gait Recognition](https://dl.acm.org/doi/10.1145/3664647.3681002) - A. Li et al.
+* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) X. Han et al.  ✨ **Oral Paper** ✨ 
 
 **ECCV2024**
 * [Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
