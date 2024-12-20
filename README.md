@@ -52,7 +52,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment](https://arxiv.org/pdf/2411.10742) - J. Zheng et al.
 * [GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild](https://arxiv.org/pdf/2408.06834) - G. Peng et al. 
 * [AerialGait: Bridging Aerial and Ground Views for Gait Recognition](https://dl.acm.org/doi/10.1145/3664647.3681002) - A. Li et al.
-* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) X. Han et al.  ✨ **Oral Paper** ✨ 
+* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) - X. Han et al.  ✨ **Oral Paper** ✨ 
 
 **ECCV2024**
 * [Open-Set Biometrics: Beyond Good Closed-Set Models](https://arxiv.org/pdf/2407.16133) - Y. Su et al.
