@@ -12,7 +12,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update Four paper**
+**Update Four papers**
 
 * [It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment](https://arxiv.org/pdf/2411.10742) - J. Zheng et al. (MM2024)
   
