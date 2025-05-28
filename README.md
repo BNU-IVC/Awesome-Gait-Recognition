@@ -43,7 +43,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 * [WaveLoss: An Adaptive Dynamic Loss for Deep Gait Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/32891/35046) - Z. Wang et al.
 
 **TNNLS2025**
-* [Rethinking Appearance-Based Deep Gait Recognition: Reviews, Analysis, and Insights From Gait Recognition Evolution](https://ieeexplore.ieee.org/abstract/document/10856514/) J. Li et al.
+* [Rethinking Appearance-Based Deep Gait Recognition: Reviews, Analysis, and Insights From Gait Recognition Evolution](https://ieeexplore.ieee.org/abstract/document/10856514/) - J. Li et al.
 
 **TCSVT2025**
 * [GaitC3I: Robust Cross-Covariate Gait Recognition via Causal Intervention](https://ieeexplore.ieee.org/abstract/document/10902484/) - J. Wang et al.
