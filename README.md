@@ -12,15 +12,7 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 
 ## What's New
-**Update Four papers**
-
-* [It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment](https://arxiv.org/pdf/2411.10742) - J. Zheng et al. (MM2024)
-  
-* [GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild](https://arxiv.org/pdf/2408.06834) - G. Peng et al.  (MM2024)
-  
-* [AerialGait: Bridging Aerial and Ground Views for Gait Recognition](https://dl.acm.org/doi/10.1145/3664647.3681002) - A. Li et al. (MM2024)
-  
-* [Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/pdf/2211.12371) - X. Han et al. (MM2024✨ **Oral Paper** ✨)
+**Updated Papers Published in 2025 (CVPR'25,AAAI'25 et al.)**
 
 
 ## Contents
@@ -38,10 +30,34 @@ Please feel free to send me [pull requests](https://github.com/BNU-IVC/awesome-g
 
 ## Appearance based Gait Recognition
 
+### 2025
+**CVPR2025**
+* [On Denoising Walking Videos for Gait Recognition](https://arxiv.org/pdf/2505.18582) - D. Jin et al. (DenoisingGait)
+* [Bridging Gait Recognition and Large Language Models Sequence Modeling](https://cvpr.thecvf.com/virtual/2025/poster/34159) - S. Yang et al. (Accepted, awaiting publication)
+* [LidarGait++: Learning Local Features and Size Awareness from LiDAR Point Clouds for 3D Gait Recognition](https://cvpr.thecvf.com/virtual/2025/poster/33502) - C. Shen et al. (Accepted, awaiting publication)
+
+**AAAI2025**
+* [Exploring More from Multiple Gait Modalities for Human Identification](https://ojs.aaai.org/index.php/AAAI/article/view/32432/34587) - D. Jin et al. 
+* [GaitCycFormer: Leveraging Gait Cycles and Transformers for Gait Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/33064/35219) - Q. Zeng et al.
+* [RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/32817/34972) - C. Wang et al. (Oral Paper)
+* [WaveLoss: An Adaptive Dynamic Loss for Deep Gait Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/32891/35046) - Z. Wang et al.
+
+**TNNLS2025**
+* [Rethinking Appearance-Based Deep Gait Recognition: Reviews, Analysis, and Insights From Gait Recognition Evolution](https://ieeexplore.ieee.org/abstract/document/10856514/) J. Li et al.
+
+**TCSVT2025**
+* [GaitC3I: Robust Cross-Covariate Gait Recognition via Causal Intervention](https://ieeexplore.ieee.org/abstract/document/10902484/) - J. Wang et al.
+
+**TBIOM2025**
+* [Unsupervised Gait Recognition With Selective Fusion](https://ieeexplore.ieee.org/abstract/document/10899836) - X. Ren et al.
+
+**TPAMI2025**
+* [Gait Recognition in the Wild: A Large-Scale Benchmark and NAS-Based Baseline](https://ieeexplore.ieee.org/abstract/document/10906429) - X. Guo et al.
+
 
 
 ### 2024
-**Arxiv**
+**Arxiv2024**
 * [OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality](https://arxiv.org/pdf/2405.09138) - C. Fan et al. (OpenGait)
 * [GaitSTR: Gait Recognition with Sequential Two-stream Refinement](https://arxiv.org/pdf/2404.02345) - W. Zheng et al.
 * [Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification](https://arxiv.org/pdf/2404.04120) - R. Wang et al.
@@ -432,6 +448,16 @@ Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/H
 
 ## Model based Gait Recognition
 
+### 2025
+**Arxiv2025**
+* [On Model and Data Scaling for Skeleton-based Self-Supervised Gait Recognition](https://arxiv.org/abs/2504.07598) - A Cosma et al.
+
+**WACV2025**
+* [VM-Gait: Multi-Modal 3D Representation Based on Virtual Marker for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10943607/)
+* [Gaitcontour: Efficient gait recognition based on a contour-pose representation](https://ieeexplore.ieee.org/abstract/document/10944069/) - Y. Guo et al.
+
+
+
 #### 2023
 **ICCV2023**
 * [GPGait: Generalized Pose-based Gait Recognition](https://arxiv.org/abs/2303.05234) - Y. Fu et al. ((⚡***GPGait*** [[code]](https://github.com/BNU-IVC/FastPoseGait)))
@@ -535,6 +561,9 @@ Unsupervised Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/H
 
 
 ## Gait Recognition Dataset and Evaluation
+
+
+
 
 ### 2024
 **AAAI2024**
